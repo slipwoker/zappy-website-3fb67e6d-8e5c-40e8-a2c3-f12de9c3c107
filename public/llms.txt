@@ -1,0 +1,61 @@
+# פור אבר הפקות — Generative Engine Optimization Map
+
+> A צילום ווידאו business.
+
+---
+
+## Pages
+
+### דף הבית
+https://-3fb67e6d.zappy5.app
+פור אבר הפקות - צילום ווידאו מקצועי לחתונות, בריתות, בר מצווה ובת מצווה. תיעוד האירוע שלכם ברמה הגבוהה ביותר.
+
+### שירותים
+https://-3fb67e6d.zappy5.app/services
+שירותי צילום ווידאו מקצועיים לחתונות, בריתות, בר מצווה ובת מצווה. חבילות מותאמות אישית במחירים הוגנים.
+
+### גלריה
+https://-3fb67e6d.zappy5.app/gallery
+גלריית עבודות - צפו בסרטונים ותמונות מחתונות, בריתות ואירועי בר ובת מצווה שצילמנו. הצצה לעבודות הצילום המקצועיות שלנו.
+
+### אודות
+https://-3fb67e6d.zappy5.app/about
+אודות פור אבר הפקות - צוות צילום מקצועי עם ניסיון עשיר בצילום חתונות, בריתות ואירועי בר ובת מצווה. הכירו את הסיפור שלנו.
+
+### צור קשר
+https://-3fb67e6d.zappy5.app/contact
+צרו קשר עם פור אבר הפקות - קבלו הצעת מחיר והתייעצות ללא התחייבות לצילום חתונות, בריתות ואירועי בר ובת מצווה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-3fb67e6d.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-3fb67e6d.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-3fb67e6d.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About פור אבר הפקות
+פור אבר הפקות is a business in the צילום ווידאו industry.
+
+## Target Audience
+בעלי שמחות - חתונות, בריתות, בר מצוות, ימי הולדת
+
+## Industry
+צילום ווידאו
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-3fb67e6d.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-3fb67e6d.zappy5.app/robots.txt
